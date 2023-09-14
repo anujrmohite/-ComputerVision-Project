@@ -57,5 +57,3 @@ This repository contains code and resources related to a Computer Vision project
 ## Videos
 
 - `video-sample.mp4`: Sample video file for testing video object detection.
-
-Feel free to explore the code and resources in this repository for your Computer Vision project. If you have any questions or need further information, please refer to the individual `.md` files for specific model details.
