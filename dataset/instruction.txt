@@ -1,0 +1,5 @@
+File dataset/yolov3.weights and yolov3.cfg is 236.52 MB;
+this exceeds GitHub's file size limit of 100.00 MB
+
+therefore this file is not uploaded.
+soon i'll upload weights file.
